@@ -1,6 +1,6 @@
 [![Spotify](https://novatorem.bmeyn.vercel.app/api/spotify)]()
 
-[![Spotify](https://bmeyn.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://novatorem-sooty-three.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 ### Hi there, I'm Bjarne 👋
 
