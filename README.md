@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Spotify Playing 🎧
-[<img src="https://novatorem-sooty-three.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/Bjarne Meyn)
+[<img src="https://novatorem-sooty-three.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/1142855884)
 
 ### Connect with me:
 
