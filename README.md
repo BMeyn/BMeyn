@@ -43,6 +43,10 @@
 
 ---
 
+<!--START_SECTION:activity-->
+
+
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
