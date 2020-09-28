@@ -1,3 +1,6 @@
+[![Spotify](https://novatorem.bmeyn.vercel.app)]()
+
+
 ### Hi there, I'm Bjarne 👋
 
 - 🔭 I’m currently working on a [VS Code Course][website]!
