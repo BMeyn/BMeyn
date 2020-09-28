@@ -1,4 +1,4 @@
-[![Spotify](https://novatorem.bmeyn.vercel.app)]()
+[![Spotify](https://novatorem.bmeyn.vercel.app/api/spotify)]()
 
 
 ### Hi there, I'm Bjarne 👋
