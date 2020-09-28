@@ -1,7 +1,3 @@
-
-
-[![Spotify](https://novatorem-sooty-three.vercel.app/api/spotify)](https://open.spotify.com/user/BMeyn)
-
 ### Hi there, I'm Bjarne 👋
 
 - 🔭 I’m currently working on a [VS Code Course][website]!
@@ -11,7 +7,7 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Spotify Playing 🎧
-[<img src="https://novatorem-sooty-three.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/BMeyn)
+[<img src="https://novatorem-sooty-three.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/Bjarne Meyn)
 
 ### Connect with me:
 
