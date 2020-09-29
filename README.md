@@ -43,20 +43,6 @@
 
 ---
 
-<!--START_SECTION:activity-->
-
-
-
-1. ❗️ Opened issue [#1](https://github.com/BMeyn/BMeyn/issues/1) in [BMeyn/BMeyn](https://github.com/BMeyn/BMeyn)
-
-<!-- YOUTUBE:START -->
-- ...
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
