@@ -47,7 +47,7 @@
 
 
 
-### 📺 Latest YouTube Videos
+1. ❗️ Opened issue [#1](https://github.com/BMeyn/BMeyn/issues/1) in [BMeyn/BMeyn](https://github.com/BMeyn/BMeyn)
 
 <!-- YOUTUBE:START -->
 - ...
