@@ -58,7 +58,7 @@
 ---
 
 [website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/BM
+[twitter]: https://twitter.com/BM27191906
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
