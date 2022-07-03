@@ -19,21 +19,21 @@
   <img src="https://img.shields.io/badge/-r-gray?style=for-the-badge&&logo=R"alt="r"/>
   <img src="https://img.shields.io/badge/-Java Script-gray?style=for-the-badge&&logo=JavaScript"alt="js"/>
   <img src="https://img.shields.io/badge/-Terraform-gray?style=for-the-badge&&logo=Terraform"alt="tf"/>
- <img src="https://img.shields.io/badge/-Linux-gray?style=for-the-badge&&logo=Linux"alt="linux"/>
+  <img src="https://img.shields.io/badge/-Linux-gray?style=for-the-badge&&logo=Linux"alt="linux"/>
   <img src="https://img.shields.io/badge/-Windows-gray?style=for-the-badge&&logo=Windows"alt="windows"/>
- <img src="https://img.shields.io/badge/-Tensorflow-gray?style=for-the-badge&&logo=Tensorflow"alt="Tensorflow"/>
- <img src="https://img.shields.io/badge/-Azure-gray?style=for-the-badge&&logo=Microsoft Azure"alt="Azure"/>
- <img src="https://img.shields.io/badge/-Apache Spark-gray?style=for-the-badge&&logo=Apache Spark"alt="Spark"/>
+  <img src="https://img.shields.io/badge/-Tensorflow-gray?style=for-the-badge&&logo=Tensorflow"alt="Tensorflow"/>
+  <img src="https://img.shields.io/badge/-Azure-gray?style=for-the-badge&&logo=Microsoft Azure"alt="Azure"/>
+  <img src="https://img.shields.io/badge/-Apache Spark-gray?style=for-the-badge&&logo=Apache Spark"alt="Spark"/>
   <img src="https://img.shields.io/badge/-Packer-gray?style=for-the-badge&&logo=Packer"alt="Packer"/>
   <img src="https://img.shields.io/badge/-Kubernetes-gray?style=for-the-badge&&logo=Kubernetes"alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/-Keras-gray?style=for-the-badge&&logo=Keras"alt="Keras"/>
-    <img src="https://img.shields.io/badge/-Azure Pipelines-gray?style=for-the-badge&&logo=Azure Pipelines"alt="Azure Pipelines"/>
-    <img src="https://img.shields.io/badge/-Azure DevOps-gray?style=for-the-badge&&logo=Azure DevOps"alt="Azure DevOps"/>
-    <img src="https://img.shields.io/badge/-GitHub Actions-gray?style=for-the-badge&&logo=GitHub Actions"alt="GitHub Actions"/>
-    <img src="https://img.shields.io/badge/-Ansible-gray?style=for-the-badge&&logo=Ansible"alt="Ansible"/>
-    <img src="https://img.shields.io/badge/-Docker-gray?style=for-the-badge&&logo=Docker"alt="Docker"/>
-    <img src="https://img.shields.io/badge/-MLflow-gray?style=for-the-badge&&logo=MLflow"alt="MLflow"/>
-    <img src="https://img.shields.io/badge/-Hadoop-gray?style=for-the-badge&&logo=Apache Hadoop"alt="Hadoop"/>
+  <img src="https://img.shields.io/badge/-Azure Pipelines-gray?style=for-the-badge&&logo=Azure Pipelines"alt="Azure Pipelines"/>
+  <img src="https://img.shields.io/badge/-Azure DevOps-gray?style=for-the-badge&&logo=Azure DevOps"alt="Azure DevOps"/>
+  <img src="https://img.shields.io/badge/-GitHub Actions-gray?style=for-the-badge&&logo=GitHub Actions"alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/-Ansible-gray?style=for-the-badge&&logo=Ansible"alt="Ansible"/>
+  <img src="https://img.shields.io/badge/-Docker-gray?style=for-the-badge&&logo=Docker"alt="Docker"/>
+  <img src="https://img.shields.io/badge/-MLflow-gray?style=for-the-badge&&logo=MLflow"alt="MLflow"/>
+  <img src="https://img.shields.io/badge/-Hadoop-gray?style=for-the-badge&&logo=Apache Hadoop"alt="Hadoop"/>
 </div>
 
 
