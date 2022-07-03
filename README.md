@@ -1,9 +1,12 @@
-### Hi there, I'm Bjarne 👋
+<img src="https://rishavanand.github.io/static/images/greetings.gif" alt="" />
+
 
 - 🔭 I like machine learning and MLOps
 - 🏢 Currently I build a data plattform on azure 
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play piano & guitar 
+
+
 
 
 
