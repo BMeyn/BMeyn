@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/-Ansible-gray?style=for-the-badge&&logo=Ansible"alt="Ansible"/>
     <img src="https://img.shields.io/badge/-Docker-gray?style=for-the-badge&&logo=Docker"alt="Docker"/>
     <img src="https://img.shields.io/badge/-MLflow-gray?style=for-the-badge&&logo=MLflow"alt="MLflow"/>
-    <img src="https://img.shields.io/badge/-Apache Hadoop-gray?style=for-the-badge&&logo=Apache Hadoop"alt="orange"/>
+    <img src="https://img.shields.io/badge/-Hadoop-gray?style=for-the-badge&&logo=Apache Hadoop"alt="Hadoop"/>
 </div>
 
 
@@ -49,28 +49,17 @@ SQLite -->
 <br />
 
 
----
 
-### Latest Videos
+<!-- ### Latest Videos
 <!-- YOUTUBE:START -->	
-- ...	
+<!-- - ...	 -->
 <!-- YOUTUBE:END -->
 
-### 📕 Latest Blog Posts
+<!-- ### 📕 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- ...
+<!-- - ... -->
 <!-- BLOG-POST-LIST:END -->
 
 
----
 
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/BM27191906
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
