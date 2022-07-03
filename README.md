@@ -33,9 +33,7 @@
   <img src="https://img.shields.io/badge/-Ansible-gray?style=for-the-badge&&logo=Ansible"alt="Ansible"/>
   <img src="https://img.shields.io/badge/-Docker-gray?style=for-the-badge&&logo=Docker"alt="Docker"/>
   <img src="https://img.shields.io/badge/-MLflow-gray?style=for-the-badge&&logo=MLflow"alt="MLflow"/>
-  <img src="https://img.shields.io/badge/-Hadoop-gray?style=for-the-badge&&logo=Apache Hadoop"alt="Hadoop"/>
 </div>
-
 
 
 <!-- 
