@@ -1,4 +1,4 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" alt="" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" alt="" width="200" />
 
 
 - 🔭 I like machine learning and MLOps
