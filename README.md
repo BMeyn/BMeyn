@@ -13,6 +13,7 @@
 ### Spotify Playing 🎧
 [<img src="https://novatorem-sooty-three.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/1142855884)
 
+
 <br />
 
 ### Languages and Tools:
