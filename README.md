@@ -2,8 +2,8 @@
 
 
 - 🔭 I like machine learning and MLOps
-- 🏢 Currently I build a data plattform on azure 
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🏢 Currently I build data plattforms on azure 
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play piano & guitar 
 
 
